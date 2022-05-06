@@ -1,7 +1,8 @@
 
 
-[![Header]( "Header")](/https://github.com/rfherrerac/CV/blob/main/Statistician_Confounding.svg/)
-
+<div id="header" align="center">
+<img src="https://github.com/rfherrerac/CV/blob/main/Statistician.jpg", width="100"/>
+</div>
 ### Hola ✋!  
 I am [Ron Herrera](https://scholar.google.com/citations?hl=en&user=OQ0qlpAAAAAJ&view_op=list_works&sortby=pubdate)
 
