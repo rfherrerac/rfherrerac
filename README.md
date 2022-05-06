@@ -1,7 +1,7 @@
 
 
 <div id="header" align="center">
-<img src="https://github.com/rfherrerac/CV/blob/main/Statistician.jpg", width="400"/>
+<img src="https://github.com/rfherrerac/CV/blob/main/Statistician.jpg", width="300"/>
 </div>
 
 ### Hola ✋! 
