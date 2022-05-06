@@ -3,7 +3,9 @@
 <div id="header" align="center">
 <img src="https://github.com/rfherrerac/CV/blob/main/Statistician.jpg", width="400"/>
 </div>
-### Hola ✋!  
+
+### Hola ✋! 
+
 I am [Ron Herrera](https://scholar.google.com/citations?hl=en&user=OQ0qlpAAAAAJ&view_op=list_works&sortby=pubdate)
 
 ## About Me
