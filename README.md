@@ -1,9 +1,9 @@
-### Hola I am Ron👋
 
-[![Header]( "Header")](https://www.creative-tim.com/)
 
-Hola ✋!  
-I am [Ron Herrera](https://scholar.google.com/citations?hl=en&user=OQ0qlpAAAAAJ&view_op=list_works&sortby=pubdate)</https://github.com/rfherrerac/CV/blob/main/Statistician_Confounding.svg/>
+[![Header]( "Header")](/https://github.com/rfherrerac/CV/blob/main/Statistician_Confounding.svg/)
+
+### Hola ✋!  
+I am [Ron Herrera](https://scholar.google.com/citations?hl=en&user=OQ0qlpAAAAAJ&view_op=list_works&sortby=pubdate)
 
 ## About Me
 
